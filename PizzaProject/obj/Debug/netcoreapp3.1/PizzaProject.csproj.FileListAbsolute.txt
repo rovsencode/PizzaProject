@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\PizzaProject\PizzaProject\obj\Debug\netcoreapp3.1\PizzaProject.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\PizzaProject\PizzaProject\obj\Debug\netcoreapp3.1\PizzaProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\PizzaProject\PizzaProject\obj\Debug\netcoreapp3.1\PizzaProject.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\PizzaProject\PizzaProject\obj\Debug\netcoreapp3.1\PizzaProject.AssemblyInfo.cs
+C:\Users\HP\Desktop\PizzaProject\PizzaProject\obj\Debug\netcoreapp3.1\PizzaProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PizzaProject\PizzaProject\bin\Debug\netcoreapp3.1\PizzaProject.exe
+C:\Users\HP\Desktop\PizzaProject\PizzaProject\bin\Debug\netcoreapp3.1\PizzaProject.deps.json
+C:\Users\HP\Desktop\PizzaProject\PizzaProject\bin\Debug\netcoreapp3.1\PizzaProject.runtimeconfig.json
+C:\Users\HP\Desktop\PizzaProject\PizzaProject\bin\Debug\netcoreapp3.1\PizzaProject.runtimeconfig.dev.json
+C:\Users\HP\Desktop\PizzaProject\PizzaProject\bin\Debug\netcoreapp3.1\PizzaProject.dll
+C:\Users\HP\Desktop\PizzaProject\PizzaProject\bin\Debug\netcoreapp3.1\PizzaProject.pdb
+C:\Users\HP\Desktop\PizzaProject\PizzaProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\PizzaProject\PizzaProject\obj\Debug\netcoreapp3.1\PizzaProject.csproj.CopyComplete
+C:\Users\HP\Desktop\PizzaProject\PizzaProject\obj\Debug\netcoreapp3.1\PizzaProject.dll
+C:\Users\HP\Desktop\PizzaProject\PizzaProject\obj\Debug\netcoreapp3.1\PizzaProject.pdb
+C:\Users\HP\Desktop\PizzaProject\PizzaProject\obj\Debug\netcoreapp3.1\PizzaProject.genruntimeconfig.cache
